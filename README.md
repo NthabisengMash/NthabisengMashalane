@@ -1,7 +1,7 @@
-# NthabisengMashalane
+# Nthabiseng Mashalane
 
 ## Introduction
-Hello, My name is Nthabiseng Mashalane, and I am a coding student at CodeSpaceBootCamp, where I am learning how to become a software developer.
+Hello, My name is Nthabiseng Mashalane, and I am a coding student at CodeSpace BootCamp, where I am learning how to become a software developer.
 
 ## Profile Banner
 ![Banner](URL_of_your_image)
