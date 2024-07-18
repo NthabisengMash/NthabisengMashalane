@@ -27,6 +27,21 @@ Hello, My name is Nthabiseng Mashalane, and I am a coding student at CodeSpace B
 **Technologies:** HTML, CSS
 **Repository:** [GitHub Link](https://github.com/NthabisengMash/Module_4R_CS20240127_WF02407_GroupD_NTHABISENG-MASHALANE_SDF04_R.git)
 
+### Project 4: CSS Animations Project
+
+This project showcases various CSS animations created from scratch. It includes simple hover effects.
+
+## Design Choices
+- **Button Hover Effect:** Changes background color button on hover.
+- **Changed the button outlook:** Changing the height , width and radius of the button 
+
+## Challenges
+- **Timing Function:** Adjusting the timing to ensure smooth transition.
+
+## Features I'm Proud Of
+- The smoothness of the button hover effect.
+- The size and graphic of my buttons
+
 ## Social Links
 - [LinkedIn](www.linkedin.com/in/nthabisengmashalane)
 
